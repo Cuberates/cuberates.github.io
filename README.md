@@ -1,2 +1,2 @@
 # jacknguyen2409-web
-My first website. Nothing much, nothing else.
+rando website with literally one html document, nothing else.
