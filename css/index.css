@@ -1,0 +1,52 @@
+html {
+   background-color: #ffeecd;
+}
+
+div {
+   max-width: 500px;
+   line-height: 21 px;
+   font-family: "Computer Modern Serif", sans-serif;
+   font-size: large;
+   font-weight: lighter;
+   padding-left: 1%;
+   padding-right: 1%;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: #ffeecd;
+   text-align: justify;
+   color: rgb(102, 75, 7);
+}
+
+.content {
+   border-right: 1px dashed black;
+   border-left: 1px dashed black;
+}
+
+.navitem {
+   display: inline;
+   padding-left: 1%;
+   padding-right: 1%;
+}
+
+.navbar {
+   list-style-type: none;
+   text-align: right;
+   border-bottom: 3px solid #000000;
+   border-top: 3px solid #000000;
+}
+
+a {
+   color: brown;
+   /* text-align: right; */
+   font-weight: 800;
+}
+
+h2,
+h1 {
+   text-align: center;
+}
+
+div {
+   margin-left: 0 auto;
+   margin-right: 0 auto;
+}
