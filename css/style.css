@@ -1,0 +1,45 @@
+html {
+   max-width: 480px;
+   text-align:center;
+   font-family: 'Computer Modern Serif';
+   background-color: rgb(234, 198, 150);  
+   line-height: 10px;
+   position:fixed;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+#big-title {
+   animation: bounceIn;
+   animation-duration: 2s;
+}
+#bio {
+   animation: bounceIn;
+   animation-duration: 3s;
+}
+#github-button {
+   animation: bounceInDown;
+   animation-duration: 4s;
+}
+#linkedin-button {
+   animation: bounceInDown;
+   animation-duration: 5s;
+}
+#youtube-button {
+   animation: bounceInDown;
+   animation-duration: 6s;
+}
+.icon {
+   width: 50px;
+   height:50px;
+   padding-left: 10px;
+   padding-right:10px;
+}
+h1, h2 { 
+   color: rgb(101, 69, 31);
+}
+
+h3 { 
+   color: rgb(118, 88, 39);
+}

@@ -1,2 +1,2 @@
 ### Jack Nguyen @ Cuberates
-I am making this my official portfolio, stay tuned :3 
+This is my simple portfolio website written in HTMl and CSS. 
