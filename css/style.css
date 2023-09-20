@@ -1,9 +1,7 @@
 html {
-   max-width: 480px;
    text-align:center;
    font-family: 'Computer Modern Serif';
    background-color: rgb(234, 198, 150);  
-   line-height: 10px;
    position:fixed;
    top: 50%;
    left: 50%;
