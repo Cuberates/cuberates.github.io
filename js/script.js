@@ -1,5 +1,5 @@
 function render_buttons() {
-   const highlight_button = { opacity: '0.5', width: '60px', height: '60px' }; // For animating the buttons
+   const highlight_button = { opacity: '0.5', width: '51px', height: '51px' }; // For animating the buttons
    const unhighlight_button = { opacity: '1', width: '50px', height: '50px' };
    const navigation_links = {
       "#github-button": "https://github.com/Cuberates",// Github repo 
@@ -23,7 +23,6 @@ function render_buttons() {
       });
    }
 }
-
 $(document).ready(function () {
    // Navigation buttons
    render_buttons();

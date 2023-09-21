@@ -7,26 +7,21 @@ html {
    left: 50%;
    transform: translate(-50%, -50%);
 }
-
 #big-title {
-   animation: bounceIn;
+   animation: bounceInDown;
    animation-duration: 2s;
 }
-#bio {
-   animation: bounceIn;
-   animation-duration: 3s;
-}
 #github-button {
-   animation: bounceInDown;
-   animation-duration: 4s;
+   animation: bounceInLeft;
+   animation-duration: 2s;
 }
 #linkedin-button {
-   animation: bounceInDown;
-   animation-duration: 5s;
+   animation: bounceInUp;
+   animation-duration: 2s;
 }
 #youtube-button {
-   animation: bounceInDown;
-   animation-duration: 6s;
+   animation: bounceInRight;
+   animation-duration: 2s;
 }
 .icon {
    width: 50px;
